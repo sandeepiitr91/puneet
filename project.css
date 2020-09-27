@@ -1,0 +1,26 @@
+h1 {text-align: center;}
+p {text-align: center;}
+
+label{
+display:inline-block;
+}
+
+.main-content{
+text-align: center;
+margin:auto;
+width:60%;
+ }
+
+input[type="text"] {
+    width:70%;
+}
+
+.image-content{
+    display: inline-block;
+    border: 1px solid #ECEDE8;
+    margin: 10px 10px;
+    overflow: hidden;
+    height: 200px;
+    width: 220px;
+    vertical-align: top;
+}
